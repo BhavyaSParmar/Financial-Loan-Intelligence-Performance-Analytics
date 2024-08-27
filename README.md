@@ -1,4 +1,5 @@
 # Financial-Loan-Intelligence-Performance-Analytics
+
 This project uses advanced data analytics and visualization in **Tableau** to deliver real-time insights into bank loan performance. Critical metrics like loan applications, funded amounts, and repayment rates are dynamically calculated using **custom SQL queries**, enabling optimized loan strategies, risk assessment, and data-driven decision-making.
 
 ### Dashboard Overview:
